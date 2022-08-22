@@ -29,7 +29,8 @@
 - 모든 문제를 풀고, 모임 시간 전까지 `Pull Request` 요청 보내기.
 - 코드가 복잡할 경우, 주석을 달아주세요
 - 코드 밑에 주석으로 코드 결과(Details) 적어주세요 (시간이랑 메모리 비교하기 위해!)
-  ex) Runtime: 55 ms, faster than 85.37% of Python3 online submissions for Roman to Integer.\
+
+ex) Runtime: 55 ms, faster than 85.37% of Python3 online submissions for Roman to Integer.\
   Memory Usage: 14 MB, less than 31.05% of Python3 online submissions for Roman to Integer.
 
 
