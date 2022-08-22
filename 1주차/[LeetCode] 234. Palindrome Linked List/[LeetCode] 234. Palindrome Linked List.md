@@ -4,7 +4,7 @@ Given the head of a singly linked list, return true if it is a palindrome.
 
 **Example 1:**
 
-![Alt text](/C:/Users/eunji/Downloads/pal1linked-list.jpg)
+![Alt text](/1주차/[LeetCode] 234. Palindrome Linked List/pal1linked-list.jpg)
 <pre>
 <code>
 Input: head = [1,2,2,1]
@@ -15,7 +15,7 @@ Output: true
 
 **Example 2:**
 
-![Alt text](/C:/Users/eunji/Downloads/pal2linked-list.jpg)
+![Alt text](/1주차/[LeetCode] 234. Palindrome Linked List/pal2linked-list.jpg)
 <pre>
 <code>
 Input: head = [1,2]
