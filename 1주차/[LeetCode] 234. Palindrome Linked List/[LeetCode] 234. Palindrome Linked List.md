@@ -12,6 +12,7 @@ Output: true
 </code>
 </pre>
 
+
 **Example 2:**
 
 ![Alt text](/C:/Users/eunji/Downloads/pal2linked-list.jpg)
