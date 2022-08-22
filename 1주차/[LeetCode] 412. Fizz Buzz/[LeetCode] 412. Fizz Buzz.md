@@ -14,6 +14,7 @@ Output: ["1","2","Fizz"]
 </code>
 </pre>
 
+
 **Example 2:**
 <pre>
 <code>
