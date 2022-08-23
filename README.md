@@ -33,9 +33,9 @@
 
 #### Commit Message/File Name
 
-- [문제 사이트 - 문제 번호] 이름
+- [문제 사이트 문제 번호] 이름
 
-ex) [LeetCode - 234] 양지우
+ex) [LeetCode 13] 양지우
 
 
 
