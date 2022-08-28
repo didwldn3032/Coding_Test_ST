@@ -16,3 +16,7 @@ class Solution:
                 res += sv_pairs[s[i]]
             i += 1
 
+'''
+Runtime: 119 ms, faster than 5.23% of Python3 online submissions for Roman to Integer.
+Memory Usage: 13.8 MB, less than 76.21% of Python3 online submissions for Roman to Integer.
+'''
