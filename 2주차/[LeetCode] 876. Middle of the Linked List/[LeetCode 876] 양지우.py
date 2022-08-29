@@ -10,3 +10,6 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
         return slow
+
+# Runtime: 44 ms, faster than 62.70% of Python3 online submissions for Middle of the Linked List.
+# Memory Usage: 13.9 MB, less than 55.99% of Python3 online submissions for Middle of the Linked List.
