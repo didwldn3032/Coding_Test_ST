@@ -15,7 +15,7 @@
 
 ## Member
 
-- 양지우
+- [양지우](https://github.com/didwldn3032
 - 김언지
 - [김은지](https://github.com/eunjiiiiii)
 
