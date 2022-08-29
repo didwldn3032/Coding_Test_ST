@@ -17,7 +17,7 @@
 
 - 양지우
 - 김언지
-- 김은지
+- [김은지](https://github.com/eunjiiiiii)
 
 
 
