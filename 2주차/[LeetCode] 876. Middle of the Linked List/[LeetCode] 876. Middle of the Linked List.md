@@ -5,7 +5,7 @@ If there are two middle nodes, return the second middle node.
  
 
 Example 1:
-
+!(./Coding_Test_ST/2주차/lc-midlist1.jpg)
 <pre>
 <code>
 Input: head = [1,2,3,4,5]
@@ -15,7 +15,7 @@ Explanation: The middle node of the list is node 3.
 </pre>
 
 Example 2:
-
+!(./Coding_Test_ST/2주차/lc-midlist2.jpg)
 <pre>
 <code>
 Input: head = [1,2,3,4,5,6]
